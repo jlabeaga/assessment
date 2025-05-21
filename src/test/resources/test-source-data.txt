@@ -1,0 +1,20 @@
+| NONCORP IVMR FF 300                 | DELPASO      | IVMR  | 300.00 | FULLFULL   |
+| NONCORP CDMR FF 140                 | DELPASO      | CWMR  | 140.00 | FULLFULL   |
+| NONCORP CDMR FF DUPLICATE           | CENTAURO     | CDMR  |  70.00 | FULLFULL   |
+| NONCORP CDMR FF DUPLICATE           | CENTAURO     | CDMR  |  75.00 | FULLFULL   |
+| NONCORP EDMR FF DUPLICATE           | GOLDCAR      | EDMR  |   1.00 | FULLFULL   |
+| NONCORP EDMR FF DUPLICATE           | GOLDCAR      | EDMR  |   4.00 | FULLFULL   |
+| NONCORP EDMR FF DUPLICATE           | GOLDCAR      | EDMR  |  10.00 | FULLFULL   |
+| NONCORP MDMR FE DUPLICATE           | NIZA         | MDMR  |  10.00 | FULLEMPTY  |
+| NONCORP MDMR FE DUPLICATE           | NIZA         | MDMR  |  20.00 | FULLEMPTY  |
+| NONCORP MDMR FE DUPLICATE           | NIZA         | MDMR  |  30.00 | FULLEMPTY  |
+| NONCORP MCMR FE                     | MARBESOL     | MCMR  |  32.00 | FULLEMPTY  |
+| CORP IVMR FE DUPLICATE 1            | AVIS         | IVMR  |   1.00 | FULLEMPTY  |
+| CORP IVMR FE DUPLICATE 1            | AVIS         | IVMR  |   1.00 | FULLEMPTY  |
+| CORP IVMR FE DUPLICATE 1            | AVIS         | IVMR  |   1.00 | FULLEMPTY  |
+| CORP MCMR FE                        | SIXT         | MCMR  |  32.00 | FULLEMPTY  |
+| CORP MUMR FE DUPLICATE              | HERTZ        | MUMR  |  15.00 | FULLEMPTY  |
+| CORP MUMR FE DUPLICATE              | HERTZ        | MUMR  |  25.00 | FULLEMPTY  |
+| CORP MUMR FE DUPLICATE              | HERTZ        | MUMR  |  35.00 | FULLEMPTY  |
+| CORP IVMR FE 120                    | FIREFLY      | IVMR  | 120.00 | FULLEMPTY  |
+| CORP IVMR FE 80                     | FIREFLY      | IVMR  |  80.00 | FULLEMPTY  |

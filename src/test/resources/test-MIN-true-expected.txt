@@ -1,0 +1,6 @@
+| CORP MUMR FE DUPLICATE              | HERTZ        | MUMR  |  15.00 | FULLEMPTY  |
+| CORP MCMR FE                        | SIXT         | MCMR  |  32.00 | FULLEMPTY  |
+| CORP IVMR FE DUPLICATE 1            | AVIS         | IVMR  |   1.00 | FULLEMPTY  |
+| NONCORP MDMR FE DUPLICATE           | NIZA         | MDMR  |  10.00 | FULLEMPTY  |
+| NONCORP MCMR FE                     | MARBESOL     | MCMR  |  32.00 | FULLEMPTY  |
+| NONCORP EDMR FF DUPLICATE           | GOLDCAR      | EDMR  |   1.00 | FULLFULL   |

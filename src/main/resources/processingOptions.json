@@ -1,0 +1,4 @@
+{
+  "filterDuplicatesStrategyName": "MAX",
+  "removeAboveMedian": true
+}
